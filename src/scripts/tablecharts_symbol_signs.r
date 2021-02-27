@@ -32,7 +32,8 @@ for (i in 1:5)
   text(seq(10, 10 * round(MyMen_Number / 10), by = 10) + 73.5, rep(b1[i], 5), rep("M", MyMen_Number),
        cex = 2.75, col = "cornflowerblue")
   MyWomen_Number <- Women[i]
-  text(-seq(10, 10 * round(MyWomen_Number / 10), by = 10) - 68, rep(b1[i], 5), rep("F", MyWomen_Number),
+  text(-seq(10, 10 * round(MyWomen_Number / 10), by = 10) -
+         68, rep(b1[i], 5), rep("F", MyWomen_Number),
        cex = 2.75, col = "deeppink")
 }
 
