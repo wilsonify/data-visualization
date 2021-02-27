@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[paperheight=27cm, paperwidth=35cm, 
+	top=0cm, left=0cm, right=0cm, bottom=0cm]{geometry}
+\usepackage{multicol}
+\usepackage[german]{babel}
+\usepackage{graphicx,color}
+\usepackage{fontspec} 
+\usepackage[abs]{overpic}
+\setmainfont[Mapping=text-tex]{Lato Regular} 
+\setlength{\parindent}{0in} 
+\setlength{\columnsep}{1.5pc}
+\definecolor{hintergrund}{rgb}{0.99,0.99,0.99}
+\pagecolor{hintergrund}
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+\fontsize{16pt}{24pt}\selectfont
+\begin{overpic}[scale=0.95,unit=1mm]{../pdf/maps_germany_cities_3d_90_inc.pdf}
+\put(0,180){\begin{minipage}[t]{30.5cm}
+\begin{multicols}{2} 
+Städte sind aus kulturwissenschaftlicher Perspektive der Idealfall einer Kulturraumverdichtung und aus Sicht der Soziologie vergleichsweise dicht und mit vielen Menschen besiedelte, fest umgrenzte Siedlungen mit vereinheitlichenden staatsrechtlichen oder kommunalrechtlichen Zügen wie einer sozial stark differenzierter Einwohnerschaft. Eine grundlegende Theorie zur Verteilung zentraler Nutzungen im Raum stammt von Walter Christaller. „Zentrale Orte“ sind Standort von Angeboten, die nicht nur von den eigenen Bewohnern sondern regelmäßig auch von Einwohnern der Nachbargemeinden genutzt werden.
+\end{multicols}
+\end{minipage}} 
+\end{overpic}
+\end{center}
+\end{document}

@@ -1,0 +1,57 @@
+\documentclass{article}
+\usepackage[paperheight=14cm, paperwidth=29.7cm, top=0.75cm, left=0cm, right=0cm, bottom=0cm]{geometry}
+\usepackage{colortbl}
+\usepackage[abs]{overpic}
+\usepackage{fontspec} 
+\setmainfont[Mapping=text-tex]{Lato Black} 
+\definecolor{hintergrund}{rgb}{0.3137,0.3137,0.3137}
+\pagecolor{hintergrund}
+\begin{document}
+\pagestyle{empty}
+\textcolor{white}{
+\fontsize{36pt}{11pt}\selectfont
+\vspace{0.35cm}\hspace{5.5cm}OECD Better Life Index}
+\begin{center}
+\setmainfont[Mapping=text-tex]{Lato Regular} \fontsize{9pt}{11pt}\selectfont
+\hspace{-6.5cm}
+\begin{overpic}[scale=0.65,unit=1mm]{../pdf/radial_columncharts_1x2_inc.pdf}
+\put(229,67){\begin{minipage}[t]{16cm}
+\textcolor{white}{
+\begin{tabular}{p{4.5cm}p{0.41cm}p{0.41cm}}
+\cellcolor[rgb]{0.2392,0.6480,0.5804}\textbf{Housing} &  \\
+\raggedright Rooms per person &  5.56 & 2.78  \\
+\raggedright Dwelling without basic facilities & 9.30 & 8.95 \\
+\cellcolor[rgb]{0.1725,0.6392,0.8784}\textbf{Income} &  \\
+\raggedright Household disposable income & 5.34 & 3.60 \\
+\raggedright Household financial wealth & 2.15 & 0.68 \\
+\cellcolor[rgb]{0.1451,0.4980,0.7412}\textbf{Jobs} &  \\
+\raggedright Employment rate &  7.68 & 4.11 \\
+\raggedright Long-term unemployment rate & 6.27 & 3.71 \\
+\cellcolor[rgb]{0.8078,0.2824,0.3647}\textbf{Community} &  \\
+\raggedright Quality of support network & 7.82 & 3.88\\
+\cellcolor[rgb]{0.4941,0.6627,0.2627}\textbf{Education} & \\
+\raggedright Educational attainment &   9.11 & 5.24\\
+\raggedright Students reading skills & 6.32 & 5.04 \\
+\cellcolor[rgb]{0.1882, 0.6431, 0.3412}\textbf{Environment} & \\
+\raggedright Air pollution &  8.89 & 5.79 \\
+\cellcolor[rgb]{0.8627, 0.6627, 0.1333}\textbf{Governance} & \\
+\raggedright Consultation on rule-making & 2.63 & 4.74 \\
+\raggedright Voter turnout &   6.62 & 5.52\\
+\cellcolor[rgb]{0.4863,0.2275,0.4510}\textbf{Health} & \\
+\raggedright Life expectancy &  7.25 & 7.03\\
+\raggedright Self-reported health &   5.73 & 7.73\\
+\cellcolor[rgb]{0.8863,0.3843,0.2157}\textbf{Life Satisfaction} & \\
+\raggedright Life Satisfaction & 6.45 & 3.55\\
+\cellcolor[rgb]{0.6765,0.6765,0.6765} \textbf{Safety} & \\
+\raggedright Homicide rate &   9.31 & 9.05\\
+\raggedright Assault rate &  8.36 & 8.12\\
+\cellcolor[rgb]{0.5882,0.1569,0.1569} \textbf{Work-life balance} & \\
+\raggedright Employees working very long hours &  8.97 & 8.88\\
+\raggedright Employment rate of women with children &  6.70 & 4.42\\
+\raggedright Time devoted to leisure and personal care & 8.47 & —\\
+\end{tabular}
+}
+\end{minipage}} 
+\end{overpic}
+\end{center}
+\end{document}

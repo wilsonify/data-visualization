@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[paperheight=27.94cm, paperwidth=33.02cm, top=0cm, left=0cm, right=0cm, bottom=0cm]{geometry}
+\usepackage{multicol}
+\usepackage{graphicx,color}
+\usepackage{fontspec} 
+\usepackage[abs]{overpic}
+\setmainfont[Mapping=text-tex]{Lato Regular} 
+\definecolor{hintergrund}{gray}{.99}
+\pagecolor{hintergrund}
+\linespread{1.2}
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+\fontsize{12pt}{14pt}\selectfont
+\begin{overpic}[scale=1.00,unit=1mm]{../pdf/maps_germany_cities_columns_outline_inc.pdf}
+\put(220,70){\begin{minipage}[t]{8.5cm}
+\raggedright Berücksichtigte Kriterien für Eigentumswohnungen: Mittlere bis gute Wohnlage, 3 Zimmer, Wohnfläche ca. 80 Quadratmeter, ohne Garage/Stellplatz, keine Steuermodelle. (Ortsübliche Abweichungen sind im Einzelfall möglich. Erhebungszeitraum: Mai 2011). Jeweils häufigster Wert.
+\end{minipage}} 
+\end{overpic}
+\end{center}
+\end{document}

@@ -1,0 +1,21 @@
+\documentclass{article}
+\usepackage[paperheight=18.5cm, paperwidth=29.7cm, top=0cm, left=0cm, right=0cm, bottom=0cm]{geometry}
+\usepackage{graphicx,color}
+\usepackage{fontspec} 
+\usepackage[abs]{overpic}
+\setmainfont[Mapping=text-tex]{Dr Sugiyama}
+\definecolor{hintergrund}{rgb}{0.9412,0.9412,0.9412}
+\definecolor{text}{gray}{.55}
+\pagecolor{hintergrund}
+\linespread{1.2}
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+\fontsize{18pt}{20pt}\selectfont
+\begin{overpic}[scale=1,unit=1mm]{../pdf/maps_minard_napoleon_inc.pdf}
+\put(23.5,144){\begin{minipage}[t]{25cm}
+\raggedleft\textcolor{text}{Les nombres d’hommes présents sont représentés par les largeurs des zones colorées a raison d’un millimètre pour dix mille hommes ; ils sont de plus écrits en travers des zones. Le gris désigne les hommes qui entrent en Russie, le noir ceux qui en sortent. Les renseignements qui ont servi à dresser la carte ont été puisés dans les ouvrages de MM. Thiers, de Ségur, de Fezensac, de Chambray et le journal inédit de Jacob, pharmacien de l’ar- mée depuis le 28 octobre. Pour mieux faire juger à l’œil la diminution de l’armée, j’ai supposé que les corps du prince Jérôme et du Maréchal Davoust qui avaient été détachés sur Minsk et Mobilow et ont rejoint vers Orscha et Witebsk, avaient toujours marché avec l’armée}
+\end{minipage}} 
+\end{overpic}
+\end{center}
+\end{document}

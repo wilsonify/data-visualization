@@ -1,0 +1,26 @@
+"N1","N2","Value"
+"1","Cambridge","to Cambridge",0
+"2","Cambridge","to S Cambs",1616
+"3","Cambridge","to Rest of E",2779
+"4","Cambridge","to Rest of UK",13500
+"5","Cambridge","to Abroad",5670
+"6","S Cambs","to Cambridge",2593
+"7","S Cambs","to S Cambs",0
+"8","S Cambs","to Rest of E",2975
+"9","S Cambs","to Rest of UK",4742
+"10","S Cambs","to Abroad",1641
+"11","Rest of E","to Cambridge",2555
+"12","Rest of E","to S Cambs",3433
+"13","Rest of E","to Rest of E",0
+"14","Rest of E","to Rest of UK",0
+"15","Rest of E","to Abroad",0
+"16","Rest of UK","to Cambridge",6981
+"17","Rest of UK","to S Cambs",3802
+"18","Rest of UK","to Rest of E",0
+"19","Rest of UK","to Rest of UK",0
+"20","Rest of UK","to Abroad",0
+"21","Abroad","to Cambridge",5670
+"22","Abroad","to S Cambs",1641
+"23","Abroad","to Rest of E",0
+"24","Abroad","to Rest of UK",0
+"25","Abroad","to Abroad",0

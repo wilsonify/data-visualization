@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage[paperheight=21cm, paperwidth=29.7cm, 
+	top=0cm, left=0cm, right=0cm, bottom=0cm]{geometry}
+\usepackage{multicol}
+\usepackage[german]{babel}
+\usepackage{color}
+\usepackage{fontspec} 
+\usepackage[abs]{overpic}
+\setmainfont[Mapping=text-tex]{Lato Light} 
+\setlength{\columnsep}{1cm}
+\definecolor{hintergrund}{rgb}{0.9412,0.9412,0.9412}
+\pagecolor{hintergrund}
+\begin{document}
+\pagestyle{empty}
+\begin{center}
+\fontsize{12pt}{17pt}\selectfont
+\begin{overpic}[scale=1,unit=1mm]{../pdf/timeseries_areas_below_inc.pdf}
+\put(60,128){\begin{minipage}[t]{16.25cm}
+\begin{multicols}{2} 
+Aus allgemeiner und aus wirtschaftspolitischer Sicht ist der gesamte Zeitraum von 1820 bis 1930 als relativ liberale Periode zu bezeichnen. Mit dem „Pacific War“, in Folge dessen die Nitrat-Minen Chile zugesprochen wurden,  erfuhr die Wirtschaft einen tiefgreifenden Aufschwung. Die Zeit von 1940 bis 1973 wird allgemein als Phase angesehen, in der die Regierung zunehmend in die Wirtschaft eingriff und Chile international isoliert wurde. Während des Allende-Regimes (1971 bis 1973)  wurde diese Politik auf die Spitze getrieben und die Wirtschaft wurde praktisch zu einer Zentralwirtschaft. Das Militärregime (1973 bis 1990) sorgte — trotz zahlreicher Menschenrechtsverletzungen — für eines Liberalisierung von Handel und Finanzen.
+\end{multicols}
+\end{minipage}} 
+\end{overpic}
+\end{center}
+\end{document}

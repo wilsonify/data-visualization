@@ -1,0 +1,125 @@
+Manchester United	Bayer Leverkusen
+Real Sociedad	Shakhtar Donetsk
+Shakhtar Donetsk	Manchester United
+Bayer Leverkusen	Real Sociedad
+Bayer Leverkusen	Shakhtar Donetsk
+Manchester United	Real Sociedad
+Shakhtar Donetsk	Bayer Leverkusen
+Real Sociedad	Manchester United
+Bayer Leverkusen	Manchester United
+Shakhtar Donetsk	Real Sociedad
+Manchester United	Shakhtar Donetsk
+Real Sociedad	Bayer Leverkusen
+Galatasaray	Real Madrid
+FC København	Juventus
+Juventus	Galatasaray
+Real Madrid	FC København
+Real Madrid	Juventus
+Galatasaray	FC København
+Juventus	Real Madrid
+FC København	Galatasaray
+Real Madrid	Galatasaray
+Juventus	FC København
+FC København	Real Madrid
+Galatasaray	Juventus
+Olympiakos Piräus	Paris Saint-Germain
+SL Benfica	RSC Anderlecht
+Paris Saint-Germain	SL Benfica
+RSC Anderlecht	Olympiakos Piräus
+RSC Anderlecht	Paris Saint-Germain
+SL Benfica	Olympiakos Piräus
+Paris Saint-Germain	RSC Anderlecht
+Olympiakos Piräus	SL Benfica
+RSC Anderlecht	SL Benfica
+Paris Saint-Germain	Olympiakos Piräus
+SL Benfica	Paris Saint-Germain
+Olympiakos Piräus	RSC Anderlecht
+Bayern München	CSKA Moskva
+Viktoria Plzeň	Manchester City
+CSKA Moskva	Viktoria Plzeň
+Manchester City	Bayern München
+CSKA Moskva	Manchester City
+Bayern München	Viktoria Plzeň
+Manchester City	CSKA Moskva
+Viktoria Plzeň	Bayern München
+CSKA Moskva	Bayern München
+Manchester City	Viktoria Plzeň
+Bayern München	Manchester City
+Viktoria Plzeň	CSKA Moskva
+Chelsea FC	FC Basel
+FC Schalke 04	Steaua Bucureşti
+FC Basel	FC Schalke 04
+Steaua Bucureşti	Chelsea FC
+FC Schalke 04	Chelsea FC
+Steaua Bucureşti	FC Basel
+Chelsea FC	FC Schalke 04
+FC Basel	Steaua Bucureşti
+FC Basel	Chelsea FC
+Steaua Bucureşti	FC Schalke 04
+FC Schalke 04	FC Basel
+Chelsea FC	Steaua Bucureşti
+Olympique Marseille	Arsenal FC
+SSC Napoli	Borussia Dortmund
+Borussia Dortmund	Olympique Marseille
+Arsenal FC	SSC Napoli
+Arsenal FC	Borussia Dortmund
+Olympique Marseille	SSC Napoli
+Borussia Dortmund	Arsenal FC
+SSC Napoli	Olympique Marseille
+Arsenal FC	Olympique Marseille
+Borussia Dortmund	SSC Napoli
+Olympique Marseille	Borussia Dortmund
+SSC Napoli	Arsenal FC
+Atlético Madrid	Zenit St. Petersburg
+Austria Wien	FC Porto
+Zenit St. Petersburg	Austria Wien
+FC Porto	Atlético Madrid
+FC Porto	Zenit St. Petersburg
+Austria Wien	Atlético Madrid
+Zenit St. Petersburg	FC Porto
+Atlético Madrid	Austria Wien
+Zenit St. Petersburg	Atlético Madrid
+FC Porto	Austria Wien
+Atlético Madrid	FC Porto
+Austria Wien	Zenit St. Petersburg
+FC Barcelona	AFC Ajax
+AC Milan	Celtic FC
+AFC Ajax	AC Milan
+Celtic FC	FC Barcelona
+AC Milan	FC Barcelona
+Celtic FC	AFC Ajax
+FC Barcelona	AC Milan
+AFC Ajax	Celtic FC
+AFC Ajax	FC Barcelona
+Celtic FC	AC Milan
+AC Milan	AFC Ajax
+FC Barcelona	Celtic FC
+Manchester City	FC Barcelona
+Bayer Leverkusen	Paris Saint-Germain
+AC Milan	Atlético Madrid
+Arsenal FC	Bayern München
+Zenit St. Petersburg	Borussia Dortmund
+Olympiakos Piräus	Manchester United
+Galatasaray	Chelsea FC
+FC Schalke 04	Real Madrid
+Atlético Madrid	AC Milan
+Bayern München	Arsenal FC
+FC Barcelona	Manchester City
+Paris Saint-Germain	Bayer Leverkusen
+Chelsea FC	Galatasaray
+Real Madrid	FC Schalke 04
+Manchester United	Olympiakos Piräus
+Borussia Dortmund	Zenit St. Petersburg
+FC Barcelona	Atlético Madrid
+Manchester United	Bayern München
+Real Madrid	Borussia Dortmund
+Paris Saint-Germain	Chelsea FC
+Borussia Dortmund	Real Madrid
+Chelsea FC	Paris Saint-Germain
+Atlético Madrid	FC Barcelona
+Bayern München	Manchester United
+Atlético Madrid	Chelsea FC
+Real Madrid	Bayern München
+Bayern München	Real Madrid
+Chelsea FC	Atlético Madrid
+Real Madrid	Atlético Madrid

@@ -1,0 +1,653 @@
+kreis_destatis,hk_name,hk_id
+1001,Flensburg,1
+1002,Kiel,2
+1003,Lübeck,3
+1004,Neumünster,4
+1051,"Dithmarschen, Kreis",5
+1053,"Herzogtum Lauenburg, Kreis",6
+1054,"Nordfriesland, Kreis",7
+1055,"Ostholstein, Kreis",8
+1056,"Pinneberg, Kreis",9
+1057,"Plön, Kreis",10
+1058,"Rendsburg-Eckernförde, Kreis",11
+1059,"Schleswig-Flensburg, Kreis",12
+1060,"Segeberg, Kreis",13
+1061,"Steinburg, Kreis",14
+1062,"Stormarn, Kreis",15
+2000,Hamburg,16
+2101,Hamburg,16
+2102,Hamburg,16
+2103,Hamburg,16
+2104,Hamburg,16
+2105,Hamburg,16
+2106,Hamburg,16
+2107,Hamburg,16
+2108,Hamburg,16
+2109,Hamburg,16
+2110,Hamburg,16
+2111,Hamburg,16
+2112,Hamburg,16
+2113,Hamburg,16
+2114,Hamburg,16
+2115,Hamburg,16
+2116,Hamburg,16
+2117,Hamburg,16
+2118,Hamburg,16
+2119,Hamburg,16
+2120,Hamburg,16
+2121,Hamburg,16
+2201,Hamburg,16
+2202,Hamburg,16
+2203,Hamburg,16
+2204,Hamburg,16
+2205,Hamburg,16
+2206,Hamburg,16
+2207,Hamburg,16
+2208,Hamburg,16
+2209,Hamburg,16
+2210,Hamburg,16
+2211,Hamburg,16
+2212,Hamburg,16
+2213,Hamburg,16
+2214,Hamburg,16
+2301,Hamburg,16
+2302,Hamburg,16
+2303,Hamburg,16
+2304,Hamburg,16
+2305,Hamburg,16
+2306,Hamburg,16
+2307,Hamburg,16
+2308,Hamburg,16
+2309,Hamburg,16
+2401,Hamburg,16
+2402,Hamburg,16
+2403,Hamburg,16
+2404,Hamburg,16
+2405,Hamburg,16
+2406,Hamburg,16
+2407,Hamburg,16
+2408,Hamburg,16
+2409,Hamburg,16
+2410,Hamburg,16
+2411,Hamburg,16
+2412,Hamburg,16
+2413,Hamburg,16
+2501,Hamburg,16
+2502,Hamburg,16
+2503,Hamburg,16
+2504,Hamburg,16
+2505,Hamburg,16
+2506,Hamburg,16
+2507,Hamburg,16
+2508,Hamburg,16
+2509,Hamburg,16
+2510,Hamburg,16
+2511,Hamburg,16
+2512,Hamburg,16
+2513,Hamburg,16
+2514,Hamburg,16
+2515,Hamburg,16
+2516,Hamburg,16
+2517,Hamburg,16
+2518,Hamburg,16
+2601,Hamburg,16
+2602,Hamburg,16
+2603,Hamburg,16
+2604,Hamburg,16
+2605,Hamburg,16
+2606,Hamburg,16
+2607,Hamburg,16
+2608,Hamburg,16
+2609,Hamburg,16
+2610,Hamburg,16
+2611,Hamburg,16
+2612,Hamburg,16
+2613,Hamburg,16
+2701,Hamburg,16
+2702,Hamburg,16
+2703,Hamburg,16
+2704,Hamburg,16
+2705,Hamburg,16
+2706,Hamburg,16
+2707,Hamburg,16
+2708,Hamburg,16
+2709,Hamburg,16
+2710,Hamburg,16
+2711,Hamburg,16
+2712,Hamburg,16
+2713,Hamburg,16
+2714,Hamburg,16
+2715,Hamburg,16
+2716,Hamburg,16
+2717,Hamburg,16
+2718,Hamburg,16
+3101,Braunschweig,17
+3102,Salzgitter,18
+3103,Wolfsburg,19
+3151,"Gifhorn, Landkreis",20
+3152,"Göttingen, Landkreis",21
+3153,"Goslar, Landkreis",22
+3154,"Helmstedt, Landkreis",23
+3155,"Northeim, Landkreis",24
+3156,"Osterode am Harz, Landkreis",25
+3157,"Peine, Landkreis",26
+3158,"Wolfenbüttel, Landkreis",27
+3201,Region Hannover,28
+3241,Region Hannover,28
+3251,"Diepholz, Landkreis",29
+3252,"Hameln-Pyrmont, Landkreis",30
+3253,Region Hannover,28
+3254,"Hildesheim, Landkreis",31
+3255,"Holzminden, Landkreis",32
+3256,"Nienburg (Weser), Landkreis",33
+3257,"Schaumburg, Landkreis",34
+3351,"Celle, Landkreis",35
+3352,"Cuxhaven, Landkreis",36
+3353,"Harburg, Landkreis",37
+3354,"Lüchow-Dannenberg, Landkreis",38
+3355,"Lüneburg, Landkreis",39
+3356,"Osterholz, Landkreis",40
+3357,"Rotenburg (Wümme), Landkreis",41
+3358,"Soltau-Fallingbostel, Landkreis",42
+3359,"Stade, Landkreis",43
+3360,"Uelzen, Landkreis",44
+3361,"Verden, Landkreis",45
+3401,Delmenhorst,46
+3402,Emden,47
+3403,Oldenburg,48
+3404,Osnabrück,49
+3405,Wilhelmshaven,50
+3451,"Ammerland, Landkreis",51
+3452,"Aurich, Landkreis",52
+3453,"Cloppenburg, Landkreis",53
+3454,"Emsland, Landkreis",54
+3455,"Friesland, Landkreis",55
+3456,"Grafschaft Bentheim, Landkreis",56
+3457,"Leer, Landkreis",57
+3458,"Oldenburg, Landkreis",58
+3459,"Osnabrück, Landkreis",59
+3460,"Vechta, Landkreis",60
+3461,"Wesermarsch, Landkreis",61
+3462,"Wittmund, Landkreis",62
+4011,Bremen,63
+4012,Bremerhaven,64
+5111,Düsseldorf,65
+5112,Duisburg,66
+5113,Essen,67
+5114,Krefeld,68
+5116,Mönchengladbach,69
+5117,Mülheim,70
+5119,Oberhausen,71
+5120,Remscheid,72
+5122,Solingen,73
+5124,Wuppertal,74
+5154,"Kleve, Kreis",75
+5158,"Mettmann, Kreis",76
+5162,Rhein-Kreis Neuss,77
+5166,"Viersen, Kreis",78
+5170,"Wesel, Kreis",79
+5313,Städteregion Aachen,83
+5314,Bonn,80
+5315,Köln,81
+5316,Leverkusen,82
+5334,Aachen,83
+5354,Städteregion Aachen,83
+5358,"Düren, Kreis",84
+5362,Rhein-Erft-Kreis,85
+5366,"Euskirchen, Kreis",86
+5370,"Heinsberg, Kreis",87
+5374,Oberbergischer Kreis,88
+5378,Rheinisch-Bergischer Kreis,89
+5382,Rhein-Sieg-Kreis,90
+5512,Bottrop,91
+5513,Gelsenkirchen,92
+5515,Münster,93
+5554,"Borken, Kreis",94
+5558,"Coesfeld, Kreis",95
+5562,"Recklinghausen, Kreis",96
+5566,"Steinfurt, Kreis",97
+5570,"Warendorf, Kreis",98
+5711,Bielefeld,99
+5754,"Gütersloh, Kreis",100
+5758,"Herford, Kreis",101
+5762,"Höxter, Kreis",102
+5766,"Lippe, Kreis",103
+5770,"Minden-Lübbecke, Kreis",104
+5774,"Paderborn, Kreis",105
+5911,Bochum,106
+5913,Dortmund,107
+5914,Hagen,108
+5915,Hamm,109
+5916,Herne,110
+5954,Ennepe-Ruhr-Kreis,111
+5958,Hochsauerlandkreis,112
+5962,Märkischer Kreis,113
+5966,"Olpe, Kreis",114
+5970,"Siegen-Wittgenstein, Kreis",115
+5974,"Soest, Kreis",116
+5978,"Unna, Kreis",117
+6411,Darmstadt,118
+6412,Frankfurt,119
+6413,Offenbach,120
+6414,Wiesbaden,121
+6431,"Bergstraße, Landkreis",122
+6432,"Darmstadt-Dieburg, Landkreis",123
+6433,"Groß-Gerau, Landkreis",124
+6434,Hochtaunuskreis,125
+6435,Main-Kinzig-Kreis,126
+6436,Main-Taunus-Kreis,127
+6437,Odenwaldkreis,128
+6438,"Offenbach, Landkreis",129
+6439,Rheingau-Taunus-Kreis,130
+6440,Wetteraukreis,131
+6531,"Gießen, Landkreis",132
+6532,Lahn-Dill-Kreis,133
+6533,"Limburg-Weilburg, Landkreis",134
+6534,"Marburg-Biedenkopf, Landkreis",135
+6535,Vogelsbergkreis,136
+6611,Kassel,137
+6631,"Fulda, Landkreis",138
+6632,"Hersfeld-Rotenburg, Landkreis",139
+6633,"Kassel, Landkreis",140
+6634,Schwalm-Eder-Kreis,141
+6635,"Waldeck-Frankenberg, Landkreis",142
+6636,Werra-Meißner-Kreis,143
+7111,Koblenz,144
+7131,"Ahrweiler, Kreis",145
+7132,"Altenkirchen (Westerwald), Kreis",146
+7133,"Bad Kreuznach, Kreis",147
+7134,"Birkenfeld, Kreis",148
+7135,"Cochem-Zell, Kreis",149
+7137,"Mayen-Koblenz, Kreis",150
+7138,"Neuwied, Kreis",151
+7140,Rhein-Hunsrück-Kreis,152
+7141,Rhein-Lahn-Kreis,153
+7143,Westerwaldkreis,154
+7211,Trier,155
+7231,"Bernkastel-Wittlich, Landkreis",156
+7232,Eifelkreis Bitburg-Prüm,157
+7233,"Vulkaneifel, Landkreis",158
+7235,"Trier-Saarburg, Landkreis",159
+7311,Frankenthal (Pfalz),160
+7312,Kaiserslautern,161
+7313,Landau in der Pfalz,162
+7314,Ludwigshafen,163
+7315,Mainz,164
+7316,Neustadt an der Weinstraße,165
+7317,Pirmasens,166
+7318,Speyer,167
+7319,Worms,168
+7320,Zweibrücken,169
+7331,"Alzey-Worms, Landkreis",170
+7332,"Bad Dürkheim, Landkreis",171
+7333,Donnersbergkreis,172
+7334,"Germersheim, Landkreis",173
+7335,"Kaiserslautern, Landkreis",174
+7336,"Kusel, Landkreis",175
+7337,"Südliche Weinstraße, Landkreis",176
+7338,Rhein-Pfalz-Kreis,177
+7339,"Mainz-Bingen, Landkreis",178
+7340,"Südwestpfalz, Landkreis",179
+8111,Stuttgart,180
+8115,"Böblingen, Landkreis",181
+8116,"Esslingen, Landkreis",182
+8117,"Göppingen, Landkreis",183
+8118,"Ludwigsburg, Landkreis",184
+8119,Rems-Murr-Kreis,185
+8121,Heilbronn,186
+8125,"Heilbronn, Landkreis",187
+8126,Hohenlohekreis,188
+8127,"Schwäbisch Hall, Landkreis",189
+8128,Main-Tauber-Kreis,190
+8135,"Heidenheim, Landkreis",191
+8136,Ostalbkreis,192
+8211,Baden-Baden,193
+8212,Karlsruhe,194
+8215,"Karlsruhe, Landkreis",195
+8216,"Rastatt, Landkreis",196
+8221,Heidelberg,197
+8222,Mannheim,198
+8225,Neckar-Odenwald-Kreis,199
+8226,Rhein-Neckar-Kreis,200
+8231,Pforzheim,201
+8235,"Calw, Landkreis",202
+8236,Enzkreis,203
+8237,"Freudenstadt, Landkreis",204
+8311,Freiburg Breisgau,205
+8315,"Breisgau-Hochschwarzwald, Landkreis",206
+8316,"Emmendingen, Landkreis",207
+8317,Ortenaukreis,208
+8325,"Rottweil, Landkreis",209
+8326,Schwarzwald-Baar-Kreis,210
+8327,"Tuttlingen, Landkreis",211
+8335,"Konstanz, Landkreis",212
+8336,"Lörrach, Landkreis",213
+8337,"Waldshut, Landkreis",214
+8415,"Reutlingen, Landkreis",215
+8416,"Tübingen, Landkreis",216
+8417,Zollernalbkreis,217
+8421,Ulm,218
+8425,Alb-Donau-Kreis,219
+8426,"Biberach, Landkreis",220
+8435,Bodenseekreis,221
+8436,"Ravensburg, Landkreis",222
+8437,"Sigmaringen, Landkreis",223
+9161,Ingolstadt,224
+9162,München,225
+9163,Rosenheim,226
+9171,"Altötting, Landkreis",227
+9172,"Berchtesgadener Land, Landkreis",228
+9173,"Bad Tölz-Wolfratshausen, Landkreis",229
+9174,"Dachau, Landkreis",230
+9175,"Ebersberg, Landkreis",231
+9176,"Eichstätt, Landkreis",232
+9177,"Erding, Landkreis",233
+9178,"Freising, Landkreis",234
+9179,"Fürstenfeldbruck, Landkreis",235
+9180,"Garmisch-Partenkirchen, Landkreis",236
+9181,"Landsberg a.Lech, Landkreis",237
+9182,"Miesbach, Landkreis",238
+9183,"Mühldorf a.Inn, Landkreis",239
+9184,"München, Landkreis",240
+9185,"Neuburg-Schrobenhausen, Landkreis",241
+9186,"Pfaffenhofen a.d.Ilm, Landkreis",242
+9187,"Rosenheim, Landkreis",243
+9188,"Starnberg, Landkreis",244
+9189,"Traunstein, Landkreis",245
+9190,"Weilheim-Schongau, Landkreis",246
+9261,Landshut,247
+9262,Passau,248
+9263,Straubing,249
+9271,"Deggendorf, Landkreis",250
+9272,"Freyung-Grafenau, Landkreis",251
+9273,"Kelheim, Landkreis",252
+9274,"Landshut, Landkreis",253
+9275,"Passau, Landkreis",254
+9276,"Regen, Landkreis",255
+9277,"Rottal-Inn, Landkreis",256
+9278,"Straubing-Bogen, Landkreis",257
+9279,"Dingolfing-Landau, Landkreis",258
+9361,Amberg,259
+9362,Regensburg,260
+9363,Weiden i.d.OPf.,261
+9371,"Amberg-Sulzbach, Landkreis",262
+9372,"Cham, Landkreis",263
+9373,"Neumarkt i.d.OPf., Landkreis",264
+9374,"Neustadt a.d.Waldnaab, Landkreis",265
+9375,"Regensburg, Landkreis",266
+9376,"Schwandorf, Landkreis",267
+9377,"Tirschenreuth, Landkreis",268
+9461,Bamberg,269
+9462,Bayreuth,270
+9463,Coburg,271
+9464,Hof,272
+9471,"Bamberg, Landkreis",273
+9472,"Bayreuth, Landkreis",274
+9473,"Coburg, Landkreis",275
+9474,"Forchheim, Landkreis",276
+9475,"Hof, Landkreis",277
+9476,"Kronach, Landkreis",278
+9477,"Kulmbach, Landkreis",279
+9478,"Lichtenfels, Landkreis",280
+9479,"Wunsiedel i.Fichtelgebirge, Landkreis",281
+9561,Ansbach,282
+9562,Erlangen,283
+9563,Fürth,284
+9564,Nürnberg,285
+9565,Schwabach,286
+9571,"Ansbach, Landkreis",287
+9572,"Erlangen-Höchstadt, Landkreis",288
+9573,"Fürth, Landkreis",289
+9574,"Nürnberger Land, Landkreis",290
+9575,"Neustadt a.d.Aisch, Landkreis",291
+9576,"Roth, Landkreis",292
+9577,"Weißenburg-Gunzenhausen, Landkreis",293
+9661,Aschaffenburg,294
+9662,Schweinfurt,295
+9663,Würzburg,296
+9671,"Aschaffenburg, Landkreis",297
+9672,"Bad Kissingen, Landkreis",298
+9673,"Rhön-Grabfeld, Landkreis",299
+9674,"Haßberge, Landkreis",300
+9675,"Kitzingen, Landkreis",301
+9676,"Miltenberg, Landkreis",302
+9677,"Main-Spessart, Landkreis",303
+9678,"Schweinfurt, Landkreis",304
+9679,"Würzburg, Landkreis",305
+9761,Augsburg,306
+9762,Kaufbeuren,307
+9763,Kempten,308
+9764,Memmingen,309
+9771,"Aichach-Friedberg, Landkreis",310
+9772,"Augsburg, Landkreis",311
+9773,"Dillingen a.d.Donau, Landkreis",312
+9774,"Günzburg, Landkreis",313
+9775,"Neu-Ulm, Landkreis",314
+9776,"Lindau, Landkreis",315
+9777,"Ostallgäu, Landkreis",316
+9778,"Unterallgäu, Landkreis",317
+9779,"Donau-Ries, Landkreis",318
+9780,"Oberallgäu, Landkreis",319
+10041,Saarbrücken,320
+10042,"Merzig-Wadern, Landkreis",321
+10043,"Neunkirchen, Landkreis",322
+10044,"Saarlouis, Landkreis",323
+10045,Saarpfalz-Kreis,324
+10046,"St. Wendel, Landkreis",325
+11000,Berlin,326
+11001,Berlin,326
+11002,Berlin,326
+11003,Berlin,326
+11004,Berlin,326
+11005,Berlin,326
+11006,Berlin,326
+11007,Berlin,326
+11008,Berlin,326
+11009,Berlin,326
+11010,Berlin,326
+11011,Berlin,326
+11012,Berlin,326
+11100,Berlin,326
+11102,Berlin,326
+11103,Berlin,326
+11106,Berlin,326
+11107,Berlin,326
+11108,Berlin,326
+11109,Berlin,326
+11110,Berlin,326
+11111,Berlin,326
+11112,Berlin,326
+11113,Berlin,326
+11114,Berlin,326
+11120,Berlin,326
+11201,Berlin,326
+11204,Berlin,326
+11205,Berlin,326
+11215,Berlin,326
+11216,Berlin,326
+11217,Berlin,326
+11218,Berlin,326
+11219,Berlin,326
+11221,Berlin,326
+11222,Berlin,326
+11223,Berlin,326
+11200,Berlin,326
+12051,Brandenburg an der Havel,327
+12052,Spree-Neiße,340
+12053,Frankfurt (Oder),328
+12054,Potsdam-Mittelmark,338
+12060,"Barnim, Landkreis",329
+12061,"Dahme-Spreewald, Landkreis",330
+12062,"Elbe-Elster, Landkreis",331
+12063,"Havelland, Landkreis",332
+12064,"Märkisch-Oderland, Landkreis",333
+12065,"Oberhavel, Landkreis",334
+12066,"Oberspreewald-Lausitz, Landkreis",335
+12067,"Oder-Spree, Landkreis",336
+12068,"Ostprignitz-Ruppin, Landkreis",337
+12069,"Potsdam-Mittelmark, Landkreis",338
+12070,"Prignitz, Landkreis",339
+12071,"Spree-Neiße, Landkreis",340
+12072,"Teltow-Fläming, Landkreis",341
+12073,"Uckermark, Landkreis",342
+13001,Vorpommern-Greifswald,349
+13002,Mecklenburgische Seenplatte,345
+13003,Rostock,343
+13004,"Schwerin, Landeshauptstadt",344
+13005,Vorpommern-Rügen,347
+13006,Nordwestmecklenburg,348
+13051,"Rostock, Landkreis",346
+13052,Mecklenburgische Seenplatte,345
+13053,"Rostock, Landkreis",346
+13054,Ludwigslust-Parchim,350
+13055,Mecklenburgische Seenplatte,345
+13056,Mecklenburgische Seenplatte,345
+13057,Vorpommern-Rügen,347
+13058,Nordwestmecklenburg,348
+13059,Vorpommern-Greifswald,349
+13060,Ludwigslust-Parchim,350
+13061,Vorpommern-Rügen,347
+13062,Vorpommern-Greifswald,349
+13071,"Mecklenburgische Seenplatte, Landkreis ",345
+13072,"Rostock, Landkreis ",346
+13073,"Vorpommern-Rügen, Landkreis ",347
+13074,"Nordwestmecklenburg, Landkreis ",348
+13075,"Vorpommern-Greifswald, Landkreis ",349
+13076,"Ludwigslust-Parchim, Landkreis ",350
+14013,Vogtlandkreis,354
+14036,Vogtlandkreis,354
+14042,Vogtlandkreis,354
+14045,Vogtlandkreis,354
+14046,Vogtlandkreis,354
+14061,"Chemnitz, Stadt",351
+14062,"Dresden, Stadt",356
+14063,"Görlitz, Stadt",358
+14065,"Leipzig, Stadt",361
+14066,"Plauen, Stadt",354
+14067,"Zwickau, Stadt",355
+14071,Erzgebirgskreis,352
+14072,Bautzen,357
+14073,Zwickau,355
+14074,Nordsachsen,363
+14075,Mittelsachsen,353
+14077,Mittelsachsen,353
+14079,Leipzig,362
+14080,Meißen,359
+14081,Erzgebirgskreis,352
+14082,Mittelsachsen,353
+14083,Leipzig,362
+14084,Görlitz,358
+14085,Meißen,359
+14086,"Görlitz, Stadt",358
+14087,Sächsische Schweiz,360
+14088,Erzgebirgskreis,352
+14089,Nordsachsen,363
+14090,Sächsische Schweiz,360
+14091,Erzgebirgskreis,352
+14092,Bautzen,357
+14093,Zwickau,355
+14094,"Dresden, Stadt",356
+14095,Bautzen,357
+14161,"Chemnitz, Stadt",351
+14166,Vogtlandkreis,354
+14167,Zwickau,355
+14171,Erzgebirgskreis,352
+14173,Zwickau,355
+14177,Mittelsachsen,353
+14178,Vogtlandkreis,354
+14181,Erzgebirgskreis,352
+14182,Mittelsachsen,353
+14188,Erzgebirgskreis,352
+14191,Erzgebirgskreis,352
+14193,Zwickau,355
+14262,"Dresden, Stadt",356
+14263,Görlitz,358
+14264,Bautzen,357
+14272,Bautzen,357
+14280,Meißen,359
+14284,Görlitz,358
+14285,Meißen,359
+14286,Görlitz,358
+14287,Sächsische Schweiz,360
+14290,Sächsische Schweiz,360
+14292,Bautzen,357
+14365,"Leipzig, Stadt",361
+14374,Nordsachsen,363
+14375,Mittelsachsen,353
+14379,Leipzig,362
+14383,Leipzig,362
+14389,Nordsachsen,363
+14511,Chemnitz,351
+14521,Erzgebirgskreis,352
+14522,Mittelsachsen,353
+14523,Vogtlandkreis,354
+14524,Zwickau,355
+14612,Dresden,356
+14625,Bautzen,357
+14626,Görlitz,358
+14627,Meißen,359
+14628,Sächsische Schweiz-Osterzgebirge,360
+14713,Leipzig,361
+14729,Leipzig,362
+14730,Nordsachsen,363
+15001,Dessau-Roßlau,364
+15002,Halle (Saale),365
+15003,Magdeburg,366
+15081,Altmarkkreis Salzwedel,367
+15082,Anhalt-Bitterfeld,368
+15083,Börde,369
+15084,Burgenlandkreis,370
+15085,Harz,371
+15086,Jerichower Land,368
+15087,Mansfeld-Südharz,372
+15088,Saalekreis,373
+15089,Salzlandkreis,374
+15090,Stendal,375
+15091,Wittenberg,368
+15101,"Dessau-Roßlau, Stadt",364
+15151,Anhalt-Bitterfeld-Wittenberg,368
+15153,Salzlandkreis,374
+15154,Anhalt-Bitterfeld-Wittenberg,368
+15159,Anhalt-Bitterfeld-Wittenberg,368
+15171,Anhalt-Bitterfeld-Wittenberg,368
+15202,"Halle (Saale), Stadt",365
+15256,Burgenlandkreis,370
+15260,Mansfeld-Südharz,372
+15261,Saalekreis,373
+15265,Saalekreis,373
+15266,Mansfeld-Südharz,372
+15268,Burgenlandkreis,370
+15303,Magdeburg,366
+15352,Salzlandkreis,374
+15355,Börde,369
+15357,Harz,371
+15358,Anhalt-Bitterfeld-Wittenberg,368
+15362,Börde,369
+15363,Stendal,375
+15364,Harz,371
+15367,Salzlandkreis,374
+15369,Harz,371
+15370,Altmarkkreis Salzwedel,367
+16051,Erfurt,376
+16052,Gera,377
+16053,Jena,378
+16054,Suhl,379
+16055,Weimar,380
+16056,Wartburgkreis,383
+16061,"Eichsfeld, Landkreis",381
+16062,"Nordhausen, Landkreis",382
+16063,Wartburgkreis,383
+16064,Unstrut-Hainich-Kreis,384
+16065,Kyffhäuserkreis,385
+16066,"Schmalkalden-Meiningen, Landkreis",386
+16067,"Gotha, Landkreis",387
+16068,"Sömmerda, Landkreis",388
+16069,"Hildburghausen, Landkreis",389
+16070,Ilm-Kreis,390
+16071,"Weimarer Land, Landkreis",391
+16072,"Sonneberg, Landkreis",392
+16073,"Saalfeld-Rudolstadt, Landkreis",393
+16074,Saale-Holzland-Kreis,394
+16075,Saale-Orla-Kreis,395
+16076,"Greiz, Landkreis",396
+16077,"Altenburger Land, Landkreis",397

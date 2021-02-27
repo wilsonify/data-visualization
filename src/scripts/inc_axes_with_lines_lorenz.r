@@ -1,0 +1,2 @@
+axis(1,col=rgb(24,24,24,maxColorValue=255),col.ticks=rgb(24,24,24,maxColorValue=255),lwd.ticks=0.5,cex.axis=0.75,xlim=c(0,1),tck=-0.015,at=c(0,0.25,0.5,0.75,1),labels=c("0%","25%","50%","75%","100%"))
+axis(2,col=rgb(24,24,24,maxColorValue=255),col.ticks=rgb(24,24,24,maxColorValue=255),lwd.ticks=0.5,cex.axis=0.75,xlim=c(0,1),tck=-0.015,at=c(0,0.25,0.5,0.75,1),labels=c("0%","25%","50%","75%","100%"))

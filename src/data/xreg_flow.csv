@@ -1,0 +1,82 @@
+N1, N2, Value
+from Africa,to Africa,3.498892
+from Africa,to Eastern Asia,0.007214
+from Africa,to Eastern Europe and Central Asia,0.03682
+from Africa,to Europe,1.744666
+from Africa,to Latin America and Caribbean,0.022516
+from Africa,to Northern America,0.825409
+from Africa,to Oceania,0.107072
+from Africa,to Southern Asia,0.000869
+from Africa,to Western Asia,0.675984
+from Eastern Asia,to Africa,0.021043
+from Eastern Asia,to Eastern Asia,2.178887
+from Eastern Asia,to Eastern Europe and Central Asia,0.085849
+from Eastern Asia,to Europe,0.565937
+from Eastern Asia,to Latin America and Caribbean,0.04099
+from Eastern Asia,to Northern America,1.593311
+from Eastern Asia,to Oceania,0.359676
+from Eastern Asia,to Southern Asia,0.002097
+from Eastern Asia,to Western Asia,0.380948
+from Eastern Europe and Central Asia,to Africa,0.00176
+from Eastern Europe and Central Asia,to Eastern Asia,0.025689
+from Eastern Europe and Central Asia,to Eastern Europe and Central Asia,1.354018
+from Eastern Europe and Central Asia,to Europe,0.566555
+from Eastern Europe and Central Asia,to Latin America and Caribbean,0.001438
+from Eastern Europe and Central Asia,to Northern America,0.043438
+from Eastern Europe and Central Asia,to Oceania,0.002543
+from Eastern Europe and Central Asia,to Southern Asia,0
+from Eastern Europe and Central Asia,to Western Asia,0.088158
+from Europe,to Africa,0.175242
+from Europe,to Eastern Asia,0.010825
+from Europe,to Eastern Europe and Central Asia,0.601772
+from Europe,to Europe,2.006166
+from Europe,to Latin America and Caribbean,0.168391
+from Europe,to Northern America,0.449838
+from Europe,to Oceania,0.222712
+from Europe,to Southern Asia,1.4e-05
+from Europe,to Western Asia,0.223626
+from Latin America and Caribbean,to Africa,0.004648
+from Latin America and Caribbean,to Eastern Asia,0.014653
+from Latin America and Caribbean,to Eastern Europe and Central Asia,0.009782
+from Latin America and Caribbean,to Europe,0.290048
+from Latin America and Caribbean,to Latin America and Caribbean,0.682464
+from Latin America and Caribbean,to Northern America,2.195385
+from Latin America and Caribbean,to Oceania,0.022709
+from Latin America and Caribbean,to Southern Asia,0
+from Latin America and Caribbean,to Western Asia,0.010966
+from Northern America,to Africa,0.011244
+from Northern America,to Eastern Asia,0.044196
+from Northern America,to Eastern Europe and Central Asia,0.172959
+from Northern America,to Europe,0.213784
+from Northern America,to Latin America and Caribbean,0.207948
+from Northern America,to Northern America,0.112105
+from Northern America,to Oceania,0.037692
+from Northern America,to Southern Asia,0
+from Northern America,to Western Asia,0.02632
+from Oceania,to Africa,0.006264
+from Oceania,to Eastern Asia,0.006773
+from Oceania,to Eastern Europe and Central Asia,0.015882
+from Oceania,to Europe,0.079224
+from Oceania,to Latin America and Caribbean,0.004123
+from Oceania,to Northern America,0.045753
+from Oceania,to Oceania,0.184822
+from Oceania,to Southern Asia,0
+from Oceania,to Western Asia,0.011272
+from Southern Asia,to Africa,0.051368
+from Southern Asia,to Eastern Asia,0.505476
+from Southern Asia,to Eastern Europe and Central Asia,0.042952
+from Southern Asia,to Europe,1.168379
+from Southern Asia,to Latin America and Caribbean,0.009744
+from Southern Asia,to Northern America,1.420783
+from Southern Asia,to Oceania,0.316133
+from Southern Asia,to Southern Asia,1.306389
+from Southern Asia,to Western Asia,3.106273
+from Western Asia,to Africa,0.244112
+from Western Asia,to Eastern Asia,0.007958
+from Western Asia,to Eastern Europe and Central Asia,0.395673
+from Western Asia,to Europe,0.431518
+from Western Asia,to Latin America and Caribbean,0.006412
+from Western Asia,to Northern America,0.323827
+from Western Asia,to Oceania,0.06514
+from Western Asia,to Southern Asia,0.036058
+from Western Asia,to Western Asia,4.519158

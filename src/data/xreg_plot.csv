@@ -1,0 +1,19 @@
+region,order1,col1,reg1,reg2
+from Northern America,1,#40A4D8,Northern,America
+from Africa,2,#33BEB7,Africa,
+from Europe,3,#B2C224,Europe,
+from Eastern Europe & Central Asia,4,#FECC2F,Eastern Europe,& Central Asia
+from Western Asia,5,#FBA127,Western,Asia
+from Southern Asia,6,#F66320,Southern,Asia
+from Eastern Asia,7,#DB3937,Eastern,Asia
+from Oceania,8,#A463D7,Oceania,
+from Latin America & Caribbean,9,#0C5BCE,Latin America,& Caribbean
+to Northern America,1,#40A4D8,Northern,America
+to Africa,2,#33BEB7,Africa,
+to Europe,3,#B2C224,Europe,
+to Eastern Europe & Central Asia,4,#FECC2F,Eastern Europe,& Central Asia
+to Western Asia,5,#FBA127,Western,Asia
+to Southern Asia,6,#F66320,Southern,Asia
+to Eastern Asia,7,#DB3937,Eastern,Asia
+to Oceania,8,#A463D7,Oceania,
+to Latin America & Caribbean,9,#0C5BCE,Latin America,& Caribbean

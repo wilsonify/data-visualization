@@ -1,0 +1,15 @@
+# inc_colours_radial_columncharts.r
+myC1<-rgb(0.2392,0.6480,0.5804)
+myC2<-rgb(0.1725,0.6392,0.8784)
+myC3<-rgb(0.1451,0.4980,0.7412)
+myC4<-rgb(0.8078,0.2824,0.3647)
+myC5<-rgb(0.4941,0.6627,0.2627)
+myC6<-rgb(0.1882, 0.6431, 0.3412)
+myC7<-rgb(0.8627, 0.6627, 0.1333)
+myC8<-rgb(0.4863,0.2275,0.4510)
+myC9<-rgb(0.8863,0.3843,0.2157)
+myC10<-rgb(0.6765,0.6765,0.6765)
+myC11<-rgb(0.5882,0.1569,0.1569)
+
+myRColours<-c(myC1,myC1,myC2,myC2,myC3,myC3,myC4,myC5,myC5,myC6,myC7,myC7,myC8,myC8,myC9,myC10,myC10,myC11,myC11,myC11)
+myMColours<-rep(par("bg"),length(myRColours))

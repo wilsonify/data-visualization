@@ -1,0 +1,125 @@
+Olympiakos Piräus	Atlético Madrid
+Juventus	Malmö FF
+Atlético Madrid	Juventus
+Malmö FF	Olympiakos Piräus
+Atlético Madrid	Malmö FF
+Olympiakos Piräus	Juventus
+Malmö FF	Atlético Madrid
+Juventus	Olympiakos Piräus
+Atlético Madrid	Olympiakos Piräus
+Malmö FF	Juventus
+Juventus	Atlético Madrid
+Olympiakos Piräus	Malmö FF
+Real Madrid	FC Basel
+Liverpool FC	PFC Ludogorets Razgrad
+FC Basel	Liverpool FC
+PFC Ludogorets Razgrad	Real Madrid
+PFC Ludogorets Razgrad	FC Basel
+Liverpool FC	Real Madrid
+FC Basel	PFC Ludogorets Razgrad
+Real Madrid	Liverpool FC
+FC Basel	Real Madrid
+PFC Ludogorets Razgrad	Liverpool FC
+Liverpool FC	FC Basel
+Real Madrid	PFC Ludogorets Razgrad
+AS Monaco	Bayer Leverkusen
+SL Benfica	Zenit St. Petersburg
+Zenit St. Petersburg	AS Monaco
+Bayer Leverkusen	SL Benfica
+AS Monaco	SL Benfica
+Bayer Leverkusen	Zenit St. Petersburg
+Zenit St. Petersburg	Bayer Leverkusen
+SL Benfica	AS Monaco
+Zenit St. Petersburg	SL Benfica
+Bayer Leverkusen	AS Monaco
+AS Monaco	Zenit St. Petersburg
+SL Benfica	Bayer Leverkusen
+Borussia Dortmund	Arsenal FC
+Galatasaray	RSC Anderlecht
+Arsenal FC	Galatasaray
+RSC Anderlecht	Borussia Dortmund
+RSC Anderlecht	Arsenal FC
+Galatasaray	Borussia Dortmund
+Arsenal FC	RSC Anderlecht
+Borussia Dortmund	Galatasaray
+Arsenal FC	Borussia Dortmund
+RSC Anderlecht	Galatasaray
+Galatasaray	Arsenal FC
+Borussia Dortmund	RSC Anderlecht
+AS Roma	CSKA Moskva
+Bayern München	Manchester City
+CSKA Moskva	Bayern München
+Manchester City	AS Roma
+CSKA Moskva	Manchester City
+AS Roma	Bayern München
+Bayern München	AS Roma
+Manchester City	CSKA Moskva
+CSKA Moskva	AS Roma
+Manchester City	Bayern München
+AS Roma	Manchester City
+Bayern München	CSKA Moskva
+AFC Ajax	Paris Saint-Germain
+FC Barcelona	APOEL Nikosia
+APOEL Nikosia	AFC Ajax
+Paris Saint-Germain	FC Barcelona
+FC Barcelona	AFC Ajax
+APOEL Nikosia	Paris Saint-Germain
+AFC Ajax	FC Barcelona
+Paris Saint-Germain	APOEL Nikosia
+Paris Saint-Germain	AFC Ajax
+APOEL Nikosia	FC Barcelona
+AFC Ajax	APOEL Nikosia
+FC Barcelona	Paris Saint-Germain
+Chelsea FC	FC Schalke 04
+NK Maribor	Sporting CP
+Sporting CP	Chelsea FC
+FC Schalke 04	NK Maribor
+Chelsea FC	NK Maribor
+FC Schalke 04	Sporting CP
+NK Maribor	Chelsea FC
+Sporting CP	FC Schalke 04
+FC Schalke 04	Chelsea FC
+Sporting CP	NK Maribor
+Chelsea FC	Sporting CP
+NK Maribor	FC Schalke 04
+Athletic Bilbao	Shakhtar Donetsk
+FC Porto	BATE Borisov
+BATE Borisov	Athletic Bilbao
+Shakhtar Donetsk	FC Porto
+FC Porto	Athletic Bilbao
+BATE Borisov	Shakhtar Donetsk
+Athletic Bilbao	FC Porto
+Shakhtar Donetsk	BATE Borisov
+BATE Borisov	FC Porto
+Shakhtar Donetsk	Athletic Bilbao
+Athletic Bilbao	BATE Borisov
+FC Porto	Shakhtar Donetsk
+Paris Saint-Germain	Chelsea FC
+Shakhtar Donetsk	Bayern München
+FC Schalke 04	Real Madrid
+FC Basel	FC Porto
+Manchester City	FC Barcelona
+Juventus	Borussia Dortmund
+Bayer Leverkusen	Atlético Madrid
+Arsenal FC	AS Monaco
+Real Madrid	FC Schalke 04
+FC Porto	FC Basel
+Chelsea FC	Paris Saint-Germain
+Bayern München	Shakhtar Donetsk
+Atlético Madrid	Bayer Leverkusen
+AS Monaco	Arsenal FC
+FC Barcelona	Manchester City
+Borussia Dortmund	Juventus
+Atlético Madrid	Real Madrid
+Juventus	AS Monaco
+Paris Saint-Germain	FC Barcelona
+FC Porto	Bayern München
+FC Barcelona	Paris Saint-Germain
+Bayern München	FC Porto
+Real Madrid	Atlético Madrid
+AS Monaco	Juventus
+Juventus	Real Madrid
+FC Barcelona	Bayern München
+Bayern München	FC Barcelona
+Real Madrid	Juventus
+Juventus	FC Barcelona	

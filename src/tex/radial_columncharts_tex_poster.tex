@@ -1,0 +1,39 @@
+\documentclass{article}
+\usepackage[paperheight=29.7cm, paperwidth=21cm, top=1cm, left=0.5cm, right=1cm, bottom=0cm]{geometry}
+\usepackage{graphicx,color}
+\usepackage{fontspec} 
+\usepackage[abs]{overpic}
+\setmainfont[Mapping=text-tex]{Lato Regular} 
+\definecolor{hintergrund}{rgb}{0.8627,0.8627,0.8627}
+\definecolor{text}{gray}{.55}
+\newcommand{\titel}[1]{{\fontspec[Color=808080, Scale=3]{Lato Bold} #1}}
+\newcommand{\maennerg}[1]{{\fontspec[Color=808080, Scale=1.5]{Symbol Signs} #1}}
+\newcommand{\maennero}[1]{{\fontspec[Color=FF8000, Scale=1.5]{Symbol Signs} #1}}
+\pagecolor{hintergrund}
+\linespread{1.2}
+\begin{document}
+\pagestyle{empty}
+\vspace*{-0.5cm}
+ \hspace*{0cm}\titel{OECD Better Life Index Data for Germany}\\[0.2cm]
+\fontsize{72pt}{20pt}\selectfont\maennerg{FF}\maennero{FFFFFFF}\maennerg{F}\\
+\vspace*{-0.8cm}
+\begin{figure}[h!]
+\begin{overpic}[scale=0.82,unit=1mm]{../pdf/radial_columncharts_inc.pdf}
+\put(0,185)
+{\begin{minipage}[t]{10cm}
+\raggedright \textcolor{text}{66 percent of mothers with school-age children have a paid job}
+\end{minipage}} 
+\put(152,185)
+{\begin{minipage}[t]{4.6cm}
+\raggedright \textcolor{text}{There’s been a lot of debate lately on measuring the well- being of societies – is wealth all that matters, or should we be looking at other things, like the balance between work and the rest of our lives?}
+\end{minipage}} 
+\put(152,30)
+{\begin{minipage}[t]{4.6cm}
+\raggedright \textcolor{text}{The Index aims to involve citizens in this debate, and to empower them to become more informed and engaged in the policy-making process that shapes all our lives.}
+\end{minipage}} 
+\put(5,-55)
+{\begin{overpic}[scale=0.65,unit=1mm]{tables_multivariate_manually.pdf}
+\end{overpic}}
+\end{overpic}
+\end{figure}
+\end{document}

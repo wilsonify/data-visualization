@@ -1,0 +1,125 @@
+Real Madrid	Shakhtar Donetsk
+Paris Saint-Germain	Malmö FF
+Malmö FF	Real Madrid
+Shakhtar Donetsk	Paris Saint-Germain
+Paris Saint-Germain	Real Madrid
+Malmö FF	Shakhtar Donetsk
+Real Madrid	Paris Saint-Germain
+Shakhtar Donetsk	Malmö FF
+Malmö FF	Paris Saint-Germain
+Shakhtar Donetsk	Real Madrid
+Paris Saint-Germain	Shakhtar Donetsk
+Real Madrid	Malmö FF
+VfL Wolfsburg	CSKA Moskva
+PSV Eindhoven	Manchester United
+CSKA Moskva	PSV Eindhoven
+Manchester United	VfL Wolfsburg
+CSKA Moskva	Manchester United
+VfL Wolfsburg	PSV Eindhoven
+PSV Eindhoven	VfL Wolfsburg
+Manchester United	CSKA Moskva
+CSKA Moskva	VfL Wolfsburg
+Manchester United	PSV Eindhoven
+VfL Wolfsburg	Manchester United
+PSV Eindhoven	CSKA Moskva
+SL Benfica	FK Astana
+Galatasaray	Atlético Madrid
+FK Astana	Galatasaray
+Atlético Madrid	SL Benfica
+Galatasaray	SL Benfica
+Atlético Madrid	FK Astana
+FK Astana	Atlético Madrid
+SL Benfica	Galatasaray
+FK Astana	SL Benfica
+Atlético Madrid	Galatasaray
+Galatasaray	FK Astana
+SL Benfica	Atlético Madrid
+Sevilla FC	Bor. Mönchengladbach
+Manchester City	Juventus
+Juventus	Sevilla FC
+Bor. Mönchengladbach	Manchester City
+Manchester City	Sevilla FC
+Juventus	Bor. Mönchengladbach
+Bor. Mönchengladbach	Juventus
+Sevilla FC	Manchester City
+Juventus	Manchester City
+Bor. Mönchengladbach	Sevilla FC
+Manchester City	Bor. Mönchengladbach
+Sevilla FC	Juventus
+AS Roma	FC Barcelona
+Bayer Leverkusen	BATE Borisov
+FC Barcelona	Bayer Leverkusen
+BATE Borisov	AS Roma
+BATE Borisov	FC Barcelona
+Bayer Leverkusen	AS Roma
+AS Roma	Bayer Leverkusen
+FC Barcelona	BATE Borisov
+BATE Borisov	Bayer Leverkusen
+FC Barcelona	AS Roma
+Bayer Leverkusen	FC Barcelona
+AS Roma	BATE Borisov
+Olympiakos Piräus	Bayern München
+Dinamo Zagreb	Arsenal FC
+Arsenal FC	Olympiakos Piräus
+Bayern München	Dinamo Zagreb
+Arsenal FC	Bayern München
+Dinamo Zagreb	Olympiakos Piräus
+Bayern München	Arsenal FC
+Olympiakos Piräus	Dinamo Zagreb
+Bayern München	Olympiakos Piräus
+Arsenal FC	Dinamo Zagreb
+Dinamo Zagreb	Bayern München
+Olympiakos Piräus	Arsenal FC
+Dinamo Kiev	FC Porto
+Chelsea FC	Maccabi Tel Aviv
+FC Porto	Chelsea FC
+Maccabi Tel Aviv	Dinamo Kiev
+FC Porto	Maccabi Tel Aviv
+Dinamo Kiev	Chelsea FC
+Chelsea FC	Dinamo Kiev
+Maccabi Tel Aviv	FC Porto
+Maccabi Tel Aviv	Chelsea FC
+FC Porto	Dinamo Kiev
+Chelsea FC	FC Porto
+Dinamo Kiev	Maccabi Tel Aviv
+Valencia CF	Zenit St. Petersburg
+KAA Gent	Olympique Lyon
+Olympique Lyon	Valencia CF
+Zenit St. Petersburg	KAA Gent
+Valencia CF	KAA Gent
+Zenit St. Petersburg	Olympique Lyon
+Olympique Lyon	Zenit St. Petersburg
+KAA Gent	Valencia CF
+Zenit St. Petersburg	Valencia CF
+Olympique Lyon	KAA Gent
+Valencia CF	Olympique Lyon
+KAA Gent	Zenit St. Petersburg
+Paris Saint-Germain	Chelsea FC
+SL Benfica	Zenit St. Petersburg
+KAA Gent	VfL Wolfsburg
+AS Roma	Real Madrid
+Arsenal FC	FC Barcelona
+Juventus	Bayern München
+PSV Eindhoven	Atlético Madrid
+Dinamo Kiev	Manchester City
+VfL Wolfsburg	KAA Gent
+Real Madrid	AS Roma
+Zenit St. Petersburg	SL Benfica
+Chelsea FC	Paris Saint-Germain
+Atlético Madrid	PSV Eindhoven
+Manchester City	Dinamo Kiev
+FC Barcelona	Arsenal FC
+Bayern München	Juventus
+Bayern München	SL Benfica
+FC Barcelona	Atlético Madrid
+VfL Wolfsburg	Real Madrid
+Paris Saint-Germain	Manchester City
+Real Madrid	VfL Wolfsburg
+Manchester City	Paris Saint-Germain
+SL Benfica	Bayern München
+Atlético Madrid	FC Barcelona
+Manchester City	Real Madrid
+Atlético Madrid	Bayern München
+Bayern München	Atlético Madrid
+Real Madrid	Manchester City
+Real Madrid	Atlético Madrid	
